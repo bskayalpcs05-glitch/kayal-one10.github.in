@@ -1,1 +1,11 @@
-# kayal-one10.github.in
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My First Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is a simple paragraph on my new webpage.</p>
+</body>
+</html>
